@@ -1,5 +1,7 @@
 # Sentimentanalyse-Einfaches-API-Projekt
-Dieses Projekt demonstriert eine einfache Sentimentanalyse-Anwendung mit einer API-Schnittstelle. ✅ Backend (API-Server) – Entwickelt mit FastAPI, stellt eine REST-API zur Verfügung, die Text entgegennimmt und eine einfache Sentimentbewertung zurückgibt (positiv, negativ, neutral).  ✅ Client (Python-Skript) – Sendet Texte per POST-Anfrage an den Server und gibt die Analyseergebnisse aus.
+Dieses Projekt demonstriert eine einfache Sentimentanalyse-Anwendung mit einer API-Schnittstelle. 
+✅ Backend (API-Server) – Entwickelt mit FastAPI, stellt eine REST-API zur Verfügung, die Text entgegennimmt und eine einfache Sentimentbewertung zurückgibt (positiv, negativ, neutral).  
+✅ Client (Python-Skript) – Sendet Texte per POST-Anfrage an den Server und gibt die Analyseergebnisse aus.
 # Technologien
 Python 3.12+
 
