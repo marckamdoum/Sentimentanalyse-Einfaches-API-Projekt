@@ -1,0 +1,51 @@
+root - 2025-07-14 08:29:34,473 - INFO- config.py - 15 - Application started successfully!
+root - 2025-07-14 08:29:34,474 - INFO- config.py - 18 - Configuration loading..
+root - 2025-07-14 08:49:29,233 - INFO- config.py - 15 - Application started successfully!
+root - 2025-07-14 08:49:29,237 - INFO- config.py - 18 - Configuration loading..
+root - 2025-07-14 08:49:29,243 - INFO- main.py - 75 - FastAPI-Anwendung 'Sentimentanalyse von Film-Feedback' wurde geladen und ist bereit, Anfragen zu empfangen.
+root - 2025-07-14 08:50:13,540 - INFO- main.py - 52 - Anfrage für Analyse erhalten. Text: 'Der Film war großartig und sehr spannend!'
+root - 2025-07-14 08:50:13,594 - INFO- main.py - 66 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 08:51:55,881 - INFO- main.py - 52 - Anfrage für Analyse erhalten. Text: 'Der Film war großartig und spannend!'
+root - 2025-07-14 08:51:55,912 - INFO- main.py - 66 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 08:52:41,963 - INFO- main.py - 52 - Anfrage für Analyse erhalten. Text: 'Der Film war großartig und sehr spannend!'
+root - 2025-07-14 08:52:41,967 - INFO- main.py - 66 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 08:52:43,929 - INFO- main.py - 52 - Anfrage für Analyse erhalten. Text: 'Der Film war großartig und sehr spannend!'
+root - 2025-07-14 08:52:43,945 - INFO- main.py - 66 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 08:52:52,815 - INFO- main.py - 52 - Anfrage für Analyse erhalten. Text: 'Alles war super'
+root - 2025-07-14 08:52:52,821 - INFO- main.py - 66 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.3333, 'sentiment': 'positiv'}
+root - 2025-07-14 08:53:10,720 - INFO- main.py - 52 - Anfrage für Analyse erhalten. Text: 'Das hat nicht so gut gefallen'
+root - 2025-07-14 08:53:10,724 - INFO- main.py - 66 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 08:53:28,819 - INFO- main.py - 52 - Anfrage für Analyse erhalten. Text: 'Der Film war wirklich schlecht.'
+root - 2025-07-14 08:53:28,823 - INFO- main.py - 66 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 08:53:51,849 - INFO- main.py - 52 - Anfrage für Analyse erhalten. Text: 'Ich habe es nicht gut gefunden!'
+root - 2025-07-14 08:53:51,851 - INFO- main.py - 66 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 08:54:00,444 - INFO- main.py - 52 - Anfrage für Analyse erhalten. Text: 'pff'
+root - 2025-07-14 08:54:00,444 - INFO- main.py - 66 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 08:54:06,303 - INFO- main.py - 52 - Anfrage für Analyse erhalten. Text: 'Schlecht'
+root - 2025-07-14 08:54:06,303 - INFO- main.py - 66 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 08:54:11,337 - INFO- main.py - 52 - Anfrage für Analyse erhalten. Text: 'Gut'
+root - 2025-07-14 08:54:11,338 - INFO- main.py - 66 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 08:54:21,550 - INFO- main.py - 52 - Anfrage für Analyse erhalten. Text: 'Der Filme war super '
+root - 2025-07-14 08:54:21,550 - INFO- main.py - 66 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.3333, 'sentiment': 'positiv'}
+root - 2025-07-14 08:59:38,077 - INFO- config.py - 15 - Application started successfully!
+root - 2025-07-14 08:59:38,077 - INFO- config.py - 18 - Configuration loading..
+root - 2025-07-14 08:59:38,081 - INFO- main.py - 55 - FastAPI-Anwendung 'Sentimentanalyse von Film-Feedback' wurde geladen und ist bereit, Anfragen zu empfangen.
+root - 2025-07-14 08:59:46,869 - INFO- main.py - 32 - Anfrage für Analyse erhalten. Text: 'Der Filme war super '
+root - 2025-07-14 08:59:46,927 - INFO- main.py - 46 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.3333, 'sentiment': 'positiv'}
+root - 2025-07-14 09:00:00,716 - INFO- main.py - 32 - Anfrage für Analyse erhalten. Text: 'Der Filme war schlecht'
+root - 2025-07-14 09:00:00,719 - INFO- main.py - 46 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 09:00:04,297 - INFO- main.py - 32 - Anfrage für Analyse erhalten. Text: 'Der Filme war schlecht'
+root - 2025-07-14 09:00:04,301 - INFO- main.py - 46 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 09:00:16,419 - INFO- main.py - 32 - Anfrage für Analyse erhalten. Text: 'Schlecht'
+root - 2025-07-14 09:00:16,428 - INFO- main.py - 46 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 09:01:03,709 - INFO- main.py - 32 - Anfrage für Analyse erhalten. Text: 'Der Filme war super produktiv!'
+root - 2025-07-14 09:01:03,716 - INFO- main.py - 46 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.4167, 'sentiment': 'positiv'}
+root - 2025-07-14 09:52:53,125 - INFO- config.py - 15 - Application started successfully!
+root - 2025-07-14 09:52:53,125 - INFO- config.py - 18 - Configuration loading..
+root - 2025-07-14 09:52:53,149 - INFO- main.py - 53 - FastAPI-Anwendung 'Sentimentanalyse von Film-Feedback' wurde geladen und ist bereit, Anfragen zu empfangen.
+root - 2025-07-14 09:53:02,486 - INFO- main.py - 32 - Anfrage für Analyse erhalten. Text: 'Der Film war großartig und sehr spannend!'
+root - 2025-07-14 09:53:02,518 - INFO- main.py - 46 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 09:55:17,851 - INFO- main.py - 32 - Anfrage für Analyse erhalten. Text: 'Der Film war sehr großartig und spannend!'
+root - 2025-07-14 09:55:17,853 - INFO- main.py - 46 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.0, 'sentiment': 'neutral'}
+root - 2025-07-14 09:55:37,661 - INFO- main.py - 32 - Anfrage für Analyse erhalten. Text: 'Der Film war wirklich super!'
+root - 2025-07-14 09:55:37,670 - INFO- main.py - 46 - Analyse abgeschlossen. Ergebnis: {'polarity': 0.4167, 'sentiment': 'positiv'}
